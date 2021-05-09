@@ -1,9 +1,9 @@
 ### Blockchain
-- careted a blockcain in python and used flask and postman
+- created a blockcain in python and used flask and postman
 - https://vermaaena.medium.com/develop-a-blockchain-cryptocurrency-using-python-flask-postman-e4bd6ad4bcfa
 
 ### cryptocurrency 
-- careted my own cryptocurrency named hacoins in python and used flask and postman
+- created my own cryptocurrency named hacoins in python and used flask and postman
 - https://vermaaena.medium.com/develop-a-blockchain-cryptocurrency-using-python-flask-postman-e4bd6ad4bcfa
 
 ### smart contract

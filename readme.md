@@ -3,7 +3,7 @@
 - https://vermaaena.medium.com/develop-a-blockchain-cryptocurrency-using-python-flask-postman-e4bd6ad4bcfa
 
 ### cryptocurrency 
-- created my own cryptocurrency named hacoins in python and used flask and postman
+- created my own cryptocurrency named hadcoins in python and used flask and postman
 - https://vermaaena.medium.com/develop-a-blockchain-cryptocurrency-using-python-flask-postman-e4bd6ad4bcfa
 
 ### smart contract
